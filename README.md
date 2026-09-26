@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ben! 👋
 
-<!--
-**benz9753/benz9753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate student with experience in financial analysis and accounting strategies. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: SQL and Github
+- 🔭 Working on: Github
+- 🌍 Languages: English
+- 📫 How to reach me: benjamin-ziegler@uiowa.edu
+
+
+
+
